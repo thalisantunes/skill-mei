@@ -9,7 +9,7 @@ Use quando as informações do negócio estão espalhadas, ou quando a pessoa re
 3. Quando precisar de uma conta (total do pedido, aviso de estoque acabando), descrever à IA o que quer e pedir a fórmula.
 4. Colar a fórmula numa célula de teste antes de espalhar pela coluna.
 
-Custo: grátis com uma conta Google.
+Custo: confira no site de cada ferramenta.
 
 Um sistema próprio só vale a pena depois que a planilha apertar de verdade. Antes disso é trabalho a mais.
 
@@ -21,10 +21,8 @@ Um sistema próprio só vale a pena depois que a planilha apertar de verdade. An
 4. Comparar três linhas da tabela com o original.
 5. Copiar a tabela para a planilha.
 
-Para documentos grandes existe o Anydoc, que tem versão gratuita. Confira os limites no site.
-
 ## Cuidados
 
 - Números trocados passam despercebidos. Sempre comparar uma amostra com o original.
 - Não pôr na planilha compartilhada dado pessoal de cliente além do necessário.
-- Grátis dentro dos limites do plano gratuito do assistente. Confira no app.
+- Planos e limites do assistente: confira no site de cada um.

@@ -15,19 +15,19 @@ Para quem usa o Claude no computador, pelo terminal.
 
 ## 2. App Claude (site e celular)
 
-Opção A, a mais simples e que funciona no celular: um Projeto.
+Opção A, a mais simples: um Projeto. Se o app do celular não mostrar Projetos, crie pelo navegador e use no celular depois.
 
-1. Abra o app do Claude e entre em Projetos.
-2. Toque em criar um projeto e dê o nome "Ajuda para MEI".
+1. Abra o Claude e entre em Projetos.
+2. Crie um projeto e dê o nome "Ajuda para MEI".
 3. Abra as instruções do projeto.
 4. Abra o arquivo `instrucoes/claude-projeto.md`, copie o texto abaixo da linha e cole nas instruções.
 5. Salve. Toda conversa nova dentro desse projeto já vem com as regras.
 
-Opção B: enviar a skill como pasta, em Configurações, Skills, se o seu plano tiver esse recurso.
+Opção B: em alguns planos dá para enviar a pasta `mei` compactada em zip, com o `SKILL.md` dentro dela.
 
 1. No computador, compacte a pasta `mei` (a que contém `SKILL.md` e `referencias`) em um arquivo zip.
-2. No site do Claude, entre em Configurações e procure a área de Skills.
-3. Envie o zip. Depois, ative a skill.
+2. Procure "Skills" nas configurações do Claude. Essa área pode não existir no celular nem no seu plano.
+3. Se existir, envie o zip e ative a skill.
 
 ## 3. ChatGPT
 
@@ -41,8 +41,8 @@ Opção A: GPT personalizado ou Projeto.
 Opção B: instruções personalizadas, que valem para todas as conversas.
 
 1. Copie o texto da versão B.
-2. Abra o menu do perfil, depois Personalização.
-3. Cole no campo que descreve como o ChatGPT deve responder e salve.
+2. Procure a opção de personalização nas configurações. O nome do campo muda com a versão do app.
+3. Cole o texto no campo de instruções e salve.
 
 ## 4. Gemini
 

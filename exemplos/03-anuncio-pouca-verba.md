@@ -6,11 +6,11 @@ Situação: um barbeiro quer anunciar no Instagram e já gastou verba impulsiona
 
 **Pessoa:** Quero anunciar minha barbearia, mas tenho pouco dinheiro.
 
-**Assistente:** Vamos fazer um plano antes de gastar. Preciso de seis respostas, uma de cada vez. Primeira: quanto você pode gastar no total?
+**Assistente:** Vamos fazer um plano antes de gastar. Preciso de quatro respostas, uma de cada vez. Primeira: quanto você pode gastar no total?
 
-**Pessoa:** Posso gastar [valor total que ele definir].
+**Pessoa:** Tenho pouca verba, quero gastar o mínimo que não dói.
 
-**Assistente:** Certo, esse é o teto. Segunda: o que você oferece e para quem?
+**Assistente:** Certo, o valor exato você define depois, no Gerenciador. Segunda: o que você oferece e para quem?
 
 **Pessoa:** Corte e barba para homens do bairro, de qualquer idade.
 
@@ -18,9 +18,13 @@ Situação: um barbeiro quer anunciar no Instagram e já gastou verba impulsiona
 
 **Pessoa:** Gente de fora do bairro, que não vai vir até aqui.
 
-**Assistente:** Boa. Então o plano tem estas partes:
+**Assistente:** Boa. Quarta: onde as pessoas vão falar com você?
 
-1. Concentre o gasto em duas semanas, em vez de espalhar por um mês. Verba pequena rende mais assim. O valor por dia você define dentro do seu teto.
+**Pessoa:** No WhatsApp.
+
+**Assistente:** Então o plano tem estas partes:
+
+1. Concentre o gasto em duas semanas, em vez de espalhar por um mês. Verba pequena rende mais assim. O valor por dia você define dentro do seu limite.
 2. Público: só o bairro, só homens, sem pessoas de fora.
 3. Oferta em troca do WhatsApp: um desconto na primeira vez, para quem chamar no WhatsApp.
 4. Resultado bom: pessoas que chamam no WhatsApp, não curtidas. Você define quantos contatos já seriam um bom resultado.

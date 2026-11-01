@@ -8,7 +8,7 @@ Cliente pergunta prazo, preço e como comprar quando a pessoa está dormindo ou 
 
 ## Caminho em dois degraus
 
-1. **Primeiro**: o WhatsApp Business, aplicativo gratuito, com respostas rápidas e mensagem de ausência.
+1. **Primeiro**: o WhatsApp Business, aplicativo (confira no app o que ele oferece), com respostas rápidas e mensagem de ausência.
 2. **Depois**, só se o volume de mensagens justificar: um assistente com IA ligado à API do WhatsApp Business. API é a porta pela qual outro programa conversa com o WhatsApp. Isso costuma pedir alguém técnico para instalar, e o custo depende do uso.
 
 Não empurre o segundo degrau antes do primeiro.
@@ -28,6 +28,6 @@ Peça assim: "Sou [tipo de negócio]. Escreva uma resposta curta e educada para 
 ## Cuidados
 
 - O assistente não fecha venda nem promete prazo sem a pessoa. Prazo e preço final são decisão dela.
-- Nas primeiras semanas, a pessoa lê todas as respostas antes de enviar, ou lê as respostas do assistente todo dia até confiar.
+- A pessoa lê todas as respostas antes de enviar, sempre.
 - Não cole conversa de cliente numa ferramenta desconhecida. Se for usar uma conversa como exemplo, troque nome e telefone antes.
 - Exportar conversas antigas e pedir à IA onde o atendimento errou é útil, desde que nome e telefone sejam apagados antes.

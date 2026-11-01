@@ -1,4 +1,4 @@
-# Exemplo 2: legenda com brief de cinco itens
+# Exemplo 2: legenda com resumo de cinco itens
 
 Situação: uma doceira quer legenda para a foto de uma caixa de brigadeiros e acha o que sai da IA sempre seco.
 
@@ -32,6 +32,6 @@ Antes de postar, confira: os sabores citados existem, a data de entrega está ce
 
 ## O que este exemplo mostra
 
-- O brief vem por perguntas, uma de cada vez.
+- O resumo vem por perguntas, uma de cada vez.
 - A IA imita o exemplo da pessoa e não inventa detalhe do produto.
 - Termina dizendo o que revisar.

@@ -23,7 +23,7 @@ Para quem tem um negócio pequeno (ateliê, loja, salão, oficina, doceria) e n�
 ## Instalação resumida
 
 - **Claude Code**: copie a pasta `.claude/skills/mei` para `~/.claude/skills/` (todos os projetos) ou para a pasta `.claude/skills/` do seu projeto.
-- **App Claude (site e celular)**: crie um Projeto e cole `instrucoes/claude-projeto.md` nas instruções. Como alternativa, compacte a pasta `mei` em zip e envie em Configurações, Skills. Depende do plano, confira no app.
+- **App Claude (site e celular)**: crie um Projeto e cole `instrucoes/claude-projeto.md` nas instruções. Em alguns planos dá para enviar a pasta `mei` compactada em zip, com o `SKILL.md` dentro dela: procure "Skills" nas configurações, que pode não existir no celular.
 - **ChatGPT**: cole `instrucoes/chatgpt.md` (versão A) num GPT personalizado ou num Projeto. A versão B vai nas instruções personalizadas.
 - **Gemini**: crie uma Gem e cole `instrucoes/gemini-gem.md`.
 

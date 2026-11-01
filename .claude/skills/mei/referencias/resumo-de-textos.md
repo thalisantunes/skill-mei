@@ -1,10 +1,10 @@
-# Brief para legendas, descrições e respostas
+# Resumo para legendas, descrições e respostas
 
 Use quando a pessoa quer escrever texto de venda e fica seco ou demais.
 
-## O que é o brief
+## O que é o resumo
 
-Um resumo curto do que a IA precisa saber para escrever como a pessoa. Escreve-se uma vez, guarda-se numa nota e cola-se sempre que precisar.
+O resumo, que alguns chamam de brief, é um texto curto com o que a IA precisa saber para escrever como a pessoa. Escreve-se uma vez, guarda-se numa nota e cola-se sempre que precisar.
 
 ## Os cinco itens
 
@@ -14,12 +14,12 @@ Um resumo curto do que a IA precisa saber para escrever como a pessoa. Escreve-s
 4. **O que quer dizer neste texto**: o objetivo de hoje (avisar de uma novidade, vender uma peça, agradecer).
 5. **Um exemplo de texto seu de que você gostou**: para a IA copiar o jeito de falar.
 
-Se a pessoa não tiver os cinco itens, ajude a montar o brief perguntando um item por vez.
+Se a pessoa não tiver os cinco itens, ajude a montar o resumo perguntando um item por vez.
 
 ## Passo a passo
 
-1. Montar o brief e guardar numa nota do celular.
-2. Colar o brief na conversa e pedir o texto "no meu jeito de falar".
+1. Montar o resumo e guardar numa nota do celular.
+2. Colar o resumo na conversa e pedir o texto "no meu jeito de falar".
 3. Ler o texto, cortar o que não é dela e ajustar o tom.
 4. Conferir se não tem material, prazo ou detalhe do produto que não existe.
 
@@ -27,4 +27,4 @@ Se a pessoa não tiver os cinco itens, ajude a montar o brief perguntando um ite
 
 - Nunca mandar o texto cru. A IA pode inventar material, prazo ou detalhe.
 - Pedir duas versões curtas costuma render mais do que uma versão longa.
-- Não pôr nome de cliente nem dado pessoal no brief.
+- Não pôr nome de cliente nem dado pessoal no resumo.

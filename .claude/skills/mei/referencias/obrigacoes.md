@@ -9,12 +9,12 @@ Este arquivo explica o que cada coisa é. Ele não traz valor, percentual, limit
 ## O que é cada coisa
 
 - **MEI**: microempreendedor individual. Uma forma simples de ter CNPJ e trabalhar com registro.
-- **DAS**: guia mensal de pagamento do MEI. Reúne os tributos e a contribuição ao INSS. Paga-se todo mês, pelo Portal do Empreendedor.
-- **DASN-SIMEI**: declaração anual de faturamento. A pessoa informa quanto o negócio faturou no ano anterior. Também é feita no Portal do Empreendedor.
+- **DAS**: guia mensal de pagamento do MEI. Reúne os tributos e a contribuição ao INSS. Paga-se pelos canais oficiais, começando por gov.br/mei. A periodicidade está lá.
+- **DASN-SIMEI**: declaração anual de faturamento. A pessoa informa quanto o negócio faturou no ano anterior. Também é feita pelos canais oficiais, começando por gov.br/mei.
 - **Limite de faturamento**: o teto de quanto o MEI pode faturar por ano para continuar no regime. O valor muda, então não se escreve aqui.
 - **Desenquadramento**: sair do regime MEI, por ter passado do limite, por mudar de atividade ou por outro motivo. Quem passa por isso precisa de orientação do contador.
-- **Nota fiscal**: documento da venda. Em geral, vendas para empresa pedem nota. Venda para pessoa física costuma ser dispensada, mas as regras variam por cidade e por atividade. Confira na prefeitura ou no portal.
-- **Funcionário**: o MEI pode ter um único funcionário contratado. As regras de pagamento dele são específicas. Confira no portal.
+- **Nota fiscal**: documento da venda. A regra depende de para quem vende, da cidade e da atividade. Confira no portal ou com o contador.
+- **Funcionário**: o MEI pode contratar em condições específicas. Confira no Portal do Empreendedor.
 
 ## Como a IA ajuda
 
